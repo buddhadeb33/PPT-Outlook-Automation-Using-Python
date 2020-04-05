@@ -1,5 +1,1 @@
-PPT Automation
-
-
-Outlook Automation
-
+## Outlook Mail Automation Using Python Script
